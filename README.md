@@ -7,7 +7,6 @@ Me chamo **Thiele**
 * :mortar_board: Fiz parte dos Bootcamps, de *Back-end* da [{Reprograma}](https://reprograma.com.br) e de *Front-End* da [Estação Hack - Facebook e Mastertech](https://estacaohack.fb.com/r). 
 * :woman_technologist: Estou em migração para área de *Software Developer*.
 
-* :computer: Conhecimentos: JavaScript, Node.js, PHP, Kotlin, Python, HTML/CSS, MongoDB,SQL e APIRest.
 
 ##### Me siga nas redes :point_down:
 
