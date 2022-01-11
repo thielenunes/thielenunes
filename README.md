@@ -3,7 +3,6 @@
 Me chamo **Thiele**
 * :books: Sou formada em Comunicação Social (*com enfase em relações públicas*) pela [FIAM FAAM](https://unibta.edu.br/).
 * :mortar_board: Curso analise e desenvolvimento de sistemas na [UNIBTA - Instituto Brasileiro de Tecnologia Avançada](https://unibta.edu.br/).
-* :earth_africa: Faço parte do ciclo formativo (2021.2) da [PretaLab](https://www.pretalab.com/).
 * :mortar_board: Fiz parte dos Bootcamps, de *Back-end* da [{Reprograma}](https://reprograma.com.br) e de *Front-End* da [Estação Hack - Facebook e Mastertech](https://estacaohack.fb.com/r). 
 * :woman_technologist: Estou em migração para área de *Software Developer*.
 
