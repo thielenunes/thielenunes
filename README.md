@@ -1,11 +1,12 @@
 ## Olá! 👋
 
 Me chamo **Thiele**
-* :books: Sou formada em Comunicação Social (*com enfase em relações públicas*) pela [FIAM FAAM](https://unibta.edu.br/).
-* :mortar_board: Curso analise e desenvolvimento de sistemas na [UNIBTA - Instituto Brasileiro de Tecnologia Avançada](https://unibta.edu.br/).
-* :mortar_board: Fiz parte dos Bootcamps, de *Back-end* da [{Reprograma}](https://reprograma.com.br) e de *Front-End* da [Estação Hack - Facebook e Mastertech](https://estacaohack.fb.com/r). 
-* :woman_technologist: Estou em migração para área de *Software Developer*.
 
+Trabalho atualmente como desenvolvedora Front End na Tera e estou me desenvolvendo nessa área. Mas sou formada em comunicação social com ênfase em relações públicas e possuo com 5 anos de experiência em gestão, estratégia e planejamento de digital.
+
+Tenho conhecimentos complementares em Marketing Digital e Data Analytics, com uma segunda graduação em análise e desenvolvimento de sistemas em andamento.
+
+🎓 Fiz parte dos Bootcamps, de Back-end da {Reprograma}, Front-End da Estação Hack - Facebook Mastertech e FullStack Developement da Tera.
 
 ##### Me siga nas redes :point_down:
 
