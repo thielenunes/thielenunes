@@ -2,11 +2,11 @@
 
 Me chamo **Thiele**
 
-Trabalho atualmente como desenvolvedora Front End na Tera e estou me desenvolvendo nessa área. Mas sou formada em comunicação social com ênfase em relações públicas e possuo com 5 anos de experiência em gestão, estratégia e planejamento de digital.
+Atualmente trabalho como Desenvolvedora de Software Jr. na Tera e estou me desenvolvendo nessa área. Sou formada em comunicação social com ênfase em relações públicas e possuo 5 anos de experiência em gestão, estratégia e planejamento de digital.
 
-Tenho conhecimentos complementares em Marketing Digital e Data Analytics, com uma segunda graduação em análise e desenvolvimento de sistemas em andamento.
+Tenho conhecimentos complementares em Marketing Digital e Data Analytics, com um MBA em  engenharia de software em andamento.
 
-🎓 Fiz parte dos Bootcamps, de Back-end da {Reprograma}, Front-End da Estação Hack - Facebook Mastertech e FullStack Developement da Tera.
+🎓 Fiz parte dos Bootcamps, de Back-end da {Reprograma}, Front-End da Estação Hack - Facebook Mastertech e estou na turma 2022 do curso de FullStack Developement da Tera.
 
 ##### Me siga nas redes :point_down:
 
