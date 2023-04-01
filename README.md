@@ -6,7 +6,7 @@ Enthusiast of digital media, communication and technology since childhood.
 
 - 👩‍💻 I'm software developer mobile at [Mercado Livre](https://www.mercadolivre.com.br/)
 - 🌍 Monitor and teacher at [{Reprograma}](https://www.linkedin.com/company/reprogramabr/) in her spare time
-- 🎓 Student Information security at [FAM](https://www.linkedin.com/school/famoficial/)
+- 🎓 Análisis y desarrollo de Sistemas at [VINCIT](https://www.linkedin.com/school/faculdade_vincit/)
 - 🎓 Graduated in Public Relations at [FIAM FAAM](https://www.linkedin.com/school/fiamfaam/)
 
  <br>
