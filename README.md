@@ -49,21 +49,6 @@ Enthusiast of digital media, communication and technology since childhood.
 </a>
 
 
-#### Database
-
-<a href="https://firebase.google.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40"
-        height="40" title="firebase" />
-</a>
-<a href="https://www.mongodb.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
-        width="40" height="40" title="mongodb" />
-</a>
-<a href="https://www.mysql.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
-        width="40" height="40" title="mysql" />
-</a>
-
 
 ## Tools :wrench:
 
