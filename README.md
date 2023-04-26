@@ -9,50 +9,21 @@ Enthusiast of digital media, communication and technology since childhood.
 - 🎓 Análisis y desarrollo de Sistemas at [VINCIT](https://www.linkedin.com/school/faculdade_vincit/)
 - 🎓 Graduated in Public Relations at [FIAM FAAM](https://www.linkedin.com/school/fiamfaam/)
 
- <br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
   
- ##
-[![Instagram Badge](https://img.shields.io/badge/-@thie.nuness-000000?style=flat-square&labelColor=00000&logo=Instagram&logoColor=white&link=https://www.instagram.com/thie.nuness/)](https://www.instagram.com/thie.nuness/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiele%20Nunes-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thielenunes/)](https://www.linkedin.com/in/thielenunes/) 
-[![Gmail Badge](https://img.shields.io/badge/-thielenunes@outlook.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thielenunes@outlook.com)](mailto:thielenunes@outlook.com)
-
-
-## Languages, libraries and frameworks :computer: 
-
-#### Front-end
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40"
-        height="40" title="html5" />
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40"
-        height="40" title="css3" />
-</a>
-<a href="https://getbootstrap.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"
-        width="40" height="40" title="bootstrap" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"
-        width="40" height="40" title="javascript" />
-</a>
-<a href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"
-        width="40" height="40" title="typescript" />
-</a>
-
-#### Back-end
-
-<a href="https://nodejs.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"
-        height="40" title="nodejs" />
-</a>
-
-
-
-## Tools :wrench:
-
-![Visual Studio
-Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/thie.nunes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/thielenunes#9182" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thielenuness/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
